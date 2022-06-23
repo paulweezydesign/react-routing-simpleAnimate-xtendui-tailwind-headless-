@@ -9,7 +9,10 @@
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-simple-animate": "^3.5.0",
-    "tailwindcss": "^3.1.4"
+    "tailwindcss": "^3.1.4",
+    "uikit": "^3.14.3",
+    "xtendui": "^1.1.0",
+    "xtendui'": "*"
   },
   "scripts": {
     "start": "react-scripts start",
